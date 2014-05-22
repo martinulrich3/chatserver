@@ -8,7 +8,7 @@ package chatserver;
 
 /**
  *
- * @author martin
+ * @author martin ulrich
  */
 public class Paket {
    private DruhOperace druhOperace;
